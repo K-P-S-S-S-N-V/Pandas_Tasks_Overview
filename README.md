@@ -107,10 +107,12 @@ File automatically generated. See the documentation to update questions/answers/
 * **[python]** 
 * **[NumPy Library ]** 
 * **[Pandas Library]**
+* **[Matplotlib Library]**
 
 [python]: https://www.python.org/
 [NumPy Library]: https://numpy.org/
 [Pandas Library]: https://pandas.pydata.org/
+[Matplotlib Library]: https://matplotlib.org/
 
 ---
 
