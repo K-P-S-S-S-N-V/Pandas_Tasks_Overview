@@ -95,6 +95,9 @@ xlwt             : 1.3.0
 numba            : 0.56.4
 ```
 
+And all the other Question and answers are in Pandas_Tasks.ipynb attachement.
+Kindly go through with that attachment📎 
+
 ## Hello Developer's & visitors
 
 If you find an error or think you've a better way to
